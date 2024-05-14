@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/AntFarmS2Project/Content/Levels/Level2.umap",
+				"C:/AntFarmS2Project/Content/Levels/Level3.umap",
 				"C:/AntFarm/Content/Classes/Ants/AntFarm_Ant.uasset",
 				"C:/AntFarm/Content/Levels/Level1.umap",
 				"C:/AntFarm/Content/Materials/Ants/AntMaterials/AntMaterial.uasset",
